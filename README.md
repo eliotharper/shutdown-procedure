@@ -1,6 +1,6 @@
 # Shutdown Procedures &amp; System Voltages
 
-## <a name="inverter-shutdown"></a>Inverter Shutdown Procedure
+## Inverter Shutdown Procedure
 1. Turn off 'GENERATOR' circuit breaker in the main AC switchboard
 2. Turn off 'MAIN SWITCH INVERTER SUPPLY' circuit breaker in the main AC switchboard
 3. Turn off the PV Array DC Isolator switch on the underside casing of Inverter 1
@@ -12,7 +12,7 @@
 1. Turn off 'GENERATOR' circuit breaker in the main AC switchboard
 2. Turn off the 'BATTERY SUPPLY MAIN SWITCH' circuit breaker in the main AC switchboard
 3. Press the Inverter 'On' button on the Selectronic SP Pro panel (to turn off)
-4. Complete [Inverter Shutdown Procedure](#inverter-shutdown) steps 2-4 (sequence is critical)
+4. Complete [Inverter Shutdown Procedure](#inverter-shutdown-procedure) steps 2-4 (sequence is critical)
 5. Turn off ganged circuit breaker switches in the Battery System DC Isolator switchboard
 
 > Startup procedure is the reverse of shutdown procedure (including reversing the Inverter Shutdown Procedure)
